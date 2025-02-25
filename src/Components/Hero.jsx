@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import background from "../assets/bg.png";
 import { SearchContext } from "./SearchContext";
 import axios from "axios";
-import MealCard from "./MealCard";
+import MealCard from "./MealCard.jsx";
 import notFound from "../assets/404NotFound.webp";
 
 const Hero = () => {
